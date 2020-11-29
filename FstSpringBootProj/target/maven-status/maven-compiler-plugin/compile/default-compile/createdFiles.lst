@@ -1,0 +1,7 @@
+app\SwaggerConfig.class
+model\Student.class
+util\DBUtil.class
+controller\ControllerClass.class
+service\AComponent.class
+app\SpringBootMain.class
+filter\LoggingFilter.class
